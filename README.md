@@ -1,2 +1,3 @@
-# vtu_labprogam
-VTU lab program of  written in C
+# VTU Lab Programs
+
+VTU lab programs of various semesters.
